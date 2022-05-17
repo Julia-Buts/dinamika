@@ -33,7 +33,7 @@ h3 {
   text-align: center;
   color: black;
 }
-.about p, li {
+p, li {
   font-size: 25px;
   font-weight: bold;
   font-family: 'Times New Roman', Times, serif;
@@ -41,5 +41,5 @@ h3 {
   color: black;
 }
 .about li{
-  list-style-image: url(../ДИНАМИКА/img/ball.png);
+  list-style-image: url(../Р”РРќРђРњРРљРђ/img/ball.png);
 }
